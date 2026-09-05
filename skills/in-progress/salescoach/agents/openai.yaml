@@ -1,0 +1,5 @@
+interface:
+  display_name: "Sales Coach"
+  short_description: "Coach a founder through selling their own product"
+policy:
+  allow_implicit_invocation: false
